@@ -1,0 +1,36 @@
+# IDE/editor settings
+.idea/
+.vscode/
+
+# CMake build directories
+build/
+cmake-build-*/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
+Makefile
+build.ninja
+.ninja_deps
+.ninja_log
+
+# Compiled objects and binaries
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+*.exe
+*.out
+
+# Generated dependency files
+*.d
+
+# Temporary/log files
+*.log
+*.tmp
+*.temp

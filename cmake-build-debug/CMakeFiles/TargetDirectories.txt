@@ -1,3 +1,0 @@
-D:/programming/C_Programming/upozn/cmake-build-debug/CMakeFiles/upozn.dir
-D:/programming/C_Programming/upozn/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/programming/C_Programming/upozn/cmake-build-debug/CMakeFiles/rebuild_cache.dir
